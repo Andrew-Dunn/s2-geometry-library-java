@@ -9,7 +9,7 @@
 
 	<groupId>org.isuper</groupId>
 	<artifactId>s2-geometry-library-java</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 
 	<name>Google S2 geometry library</name>
 	<description>A java library for Google s2</description>
@@ -28,7 +28,7 @@
 		<connection>scm:git:git@github.com:orgisuper/s2-geometry-library-java.git</connection>
 		<developerConnection>scm:git:git@github.com:orgisuper/s2-geometry-library-java.git</developerConnection>
 		<url>https://github.com/orgisuper/s2-geometry-library-java</url>
-		<tag>HEAD</tag>
+		<tag>v0.0.1</tag>
 	</scm>
 	<developers>
 		<developer>
